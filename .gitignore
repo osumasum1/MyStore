@@ -1,0 +1,33 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+/static/
+/media/
+.env
+.venv/
+*.sqlite3
+*.py[cod]
+*.pyo
+*.swp
+.DS_Store
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# VS Code
+.vscode/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Python virtual environments
+venv/
+ENV/
+
+# github
+.github/
