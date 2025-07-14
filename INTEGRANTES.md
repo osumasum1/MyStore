@@ -1,2 +1,2 @@
-Osmar Garcia Navarro
-Elmer Vargas Canaviri
+Osmar Garcia Navarro.
+Elmer Vargas Canaviri.
